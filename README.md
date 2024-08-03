@@ -1,2 +1,2 @@
-# Born2Cobol
+# kingdom of cobol
 Repository of COBOL projects and examples
