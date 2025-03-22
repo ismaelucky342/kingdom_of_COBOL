@@ -1,7 +1,9 @@
 # kingdom of COBOL
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/949ee62d-2f56-4a20-9d5e-ed5781131ac5" alt="Imagen centrada">
-</div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/21cca2f2-4a9c-4cb3-94c4-4f413b81c4cf" alt="Descripción de la imagen" width="400">
+</p>
+
 
 ## Introduction
 
